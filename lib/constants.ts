@@ -4,7 +4,7 @@ export const SITE = {
   email: "reinventwitharushi@gmail.com",
   phones: ["+91 99533 90040", "+91 99104 25446"],
   instagram: { handle: "@arushioswal", url: "https://instagram.com/arushioswal" },
-  linkedin: { handle: "/arushioswal", url: "https://linkedin.com/in/arushioswal" },
+  linkedin: { handle: "/reinventwitharushi", url: "https://www.linkedin.com/in/reinventwitharushi/" },
 };
 
 export const NAV_LINKS = [

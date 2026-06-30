@@ -40,7 +40,7 @@ export default function RootLayout({
               email: "reinventwitharushi@gmail.com",
               sameAs: [
                 "https://instagram.com/arushioswal",
-                "https://linkedin.com/in/arushioswal",
+                "https://www.linkedin.com/in/reinventwitharushi/",
               ],
             }),
           }}
